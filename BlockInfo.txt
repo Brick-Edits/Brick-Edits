@@ -1,1 +1,19 @@
-{}
+{
+  -- Empty Block
+  [1] = {
+    type = "empty",
+    minimapColor = color(0)
+  },
+  [2] = {
+    type = "block",
+    shadow = true,
+    physics = "1/1",
+    minimapColor = nil
+  },
+  [3] = {
+    type = "block",
+    shadow = true,
+    physics = "1/1",
+    minimapColor = nil
+  }
+}
