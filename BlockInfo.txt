@@ -1,8 +1,14 @@
 {
   -- Empty Block
-  [1] = {
+  [0] = {
     type = "empty",
     minimapColor = color(0)
+  },
+  [1] = {
+    type = "block",
+    shadow = true,
+    physics = "1/1",
+    minimapColor = nil
   },
   [2] = {
     type = "block",
@@ -15,5 +21,401 @@
     shadow = true,
     physics = "1/1",
     minimapColor = nil
+  },
+  [4] = {
+    type = "block",
+    shadow = true,
+    physics = "1/1",
+    minimapColor = nil
+  },
+  [5] = {
+    type = "block",
+    shadow = true,
+    physics = "1/1",
+    minimapColor = nil
+  },
+  [6] = {
+    type = "background",
+    minimapColor = nil
+  },
+  [7] = {
+    type = "background",
+    minimapColor = nil
+  },
+  [8] = {
+    type = "background",
+    minimapColor = nil
+  },
+  [9] = {
+    type = "background",
+    minimapColor = nil
+  },
+  [10] = {
+    type = "background",
+    minimapColor = nil
+  },
+  [11] = {
+    type = "action",
+    shadow = false,
+    subtype = "gravity",
+    canMoveX = false,
+    canMoveY = true,
+    gravity_y = 0,
+    gravity_x = -1
+  },
+  [12] = {
+    type = "action",
+    shadow = false,
+    subtype = "gravity",
+    canMoveX = false,
+    canMoveY = true,
+    gravity_y = 0,
+    gravity_x = 1
+  },
+  [13] = {
+    type = "action",
+    shadow = false,
+    subtype = "gravity",
+    canMoveX = true,
+    canMoveY = false,
+    gravity_y = 1,
+    gravity_x = 0
+  },
+  [14] = {
+    type = "action",
+    shadow = false,
+    subtype = "gravity",
+    canMoveX = true,
+    canMoveY = true,[7] = {
+    gravity_y = 0,
+    gravity_x = 0
+  },
+  [15] = {
+    type = "block",
+    shadow = true,
+    physics = "1/1",
+    minimapColor = nil
+  },
+  [16] = {
+    type = "block",
+    shadow = true,
+    physics = "1/1",
+    minimapColor = nil
+  },
+  [17] = {
+    type = "block",
+    shadow = true,
+    physics = "1/1",
+    minimapColor = nil
+  },
+  [18] = {
+    type = "block",
+    shadow = true,
+    physics = "1/1",
+    minimapColor = nil
+  },
+  [19] = {
+    type = "background",
+    minimapColor = color(140, 150, 150)
+  },
+  [20] = {
+    type = "background",
+    minimapColor = color(45, 125, 130)
+  },
+  [21] = {
+    type = "background",
+    minimapColor = color(120, 40, 120)
+  },
+  [22] = {
+    type = "background",
+    minimapColor = color(90, 100, 30)
+  },
+  [23] = {
+    type = "block",
+    shadow = true,
+    physics = "1/1",
+    minimapColor = color(100, 100, 110)
+  },
+  [24] = {
+    type = "block",
+    shadow = true,
+    physics = "1/1",
+    minimapColor = color(75, 115, 70)
+  },
+  [25] = {
+    type = "block",
+    shadow = true,
+    physics = "1/1",
+    minimapColor = color(115, 80, 100)
+  },
+  [26] = {
+    type = "block",
+    shadow = true,
+    physics = "1/1",
+    minimapColor = color(175, 130, 50)
+  },
+  [27] = {
+    type = "block",
+    shadow = true,
+    physics = "1/1",
+    minimapColor = color(55, 170, 160)
+  },
+  [28] = {
+    type = "block",
+    shadow = true,
+    physics = "1/1",
+    minimapColor = color(50, 75, 155)
+  },
+  [28] = {
+    type = "block",
+    shadow = true,
+    physics = "1/1",
+    minimapColor = color(50, 75, 155)
+  },
+  [29] = {
+    type = "block",
+    shadow = true,
+    physics = "1/1",
+    minimapColor = color(200, 200, 250)
+  },
+  [30] = {
+    type = "block",
+    shadow = true,
+    physics = "1/1",
+    minimapColor = color(225, 230, 255)
+  },
+  [31] = {
+    type = "block",
+    shadow = true,
+    physics = "1/1",
+    minimapColor = color(200, 200, 250)
+  },
+  [32] = {
+    type = "block",
+    shadow = true,
+    physics = "1/1",
+    minimapColor = nil
+  },
+  [33] = {
+    type = "block",
+    shadow = true,
+    physics = "1/1",
+    minimapColor = nil
+  },
+  [34] = {
+    type = "block",
+    shadow = true,
+    physics = "1/1",
+    minimapColor = nil
+  },
+  [35] = {
+    type = "block",
+    shadow = true,
+    physics = "1/1",
+    minimapColor = nil
+  },
+  [36] = {
+    type = "block",
+    shadow = true,
+    physics = "1/1",
+    minimapColor = nil
+  },
+  [37] = {
+    type = "block",
+    shadow = true,
+    physics = "1/1",
+    minimapColor = nil
+  },
+  [38] = {
+    type = "block",
+    shadow = true,
+    physics = "1/1",
+    minimapColor = nil
+  },
+  [39] = {
+    type = "block",
+    shadow = true,
+    physics = "1/1",
+    minimapColor = nil
+  },
+  [40] = {
+    type = "block",
+    shadow = true,
+    physics = "1/1",
+    minimapColor = nil
+  },
+  [41] = {
+    type = "background",
+    minimapColor = color(140, 150, 150)
+  },
+  [42] = {
+    type = "background",
+    minimapColor = color(140, 150, 150)
+  },
+  [43] = {
+    type = "background",
+    minimapColor = color(140, 150, 150)
+  },
+  [44] = {
+    type = "background",
+    minimapColor = color(140, 150, 150)
+  },
+  [45] = {
+    type = "background",
+    minimapColor = color(140, 150, 150)
+  },
+  [46] = {
+    type = "background",
+    minimapColor = color(140, 150, 150)
+  },
+  [47] = {
+    type = "background",
+    minimapColor = color(140, 150, 150)
+  },
+  [48] = {
+    type = "background",
+    minimapColor = color(140, 150, 150)
+  },
+  [49] = {
+    type = "background",
+    minimapColor = color(140, 150, 150)
+  },
+  [50] = {
+    type = "block",
+    shadow = true,
+    physics = "1/2",    
+    minimapColor = nil
+  },
+  [51] = {
+    type = "block",
+    shadow = true,
+    physics = "1/2",
+    minimapColor = nil
+  },
+  [52] = {
+    type = "block",
+    shadow = true,
+    physics = "1/2",
+    minimapColor = nil
+  },
+  [53] = {
+    type = "block",
+    shadow = true,
+    physics = "1/2",
+    minimapColor = nil
+  },
+  [54] = {
+    type = "block",
+    shadow = true,
+    physics = "1/2",
+    minimapColor = nil
+  },
+  [55] = {
+    type = "block",
+    shadow = true,
+    physics = "1/2",
+    minimapColor = nil
+  },
+  [56] = {
+    type = "block",
+    shadow = true,
+    physics = "1/2",
+    minimapColor = nil
+  },
+  [57] = {
+    type = "block",
+    shadow = true,
+    physics = "1/2",
+    minimapColor = nil
+  },
+  [58] = {
+    type = "block",
+    shadow = true,
+    physics = "1/2",
+    minimapColor = nil
+  },
+  [59] = {
+    type = "block",
+    shadow = true,
+    physics = "1/1",
+    minimapColor = color(0, 170, 0)
+  },
+  [60] = {
+    type = "block",
+    shadow = true,
+    physics = "1/1",
+    minimapColor = color(30, 220, 30)
+  },
+  [61] = {
+    type = "block",
+    shadow = true,
+    physics = "1/1",
+    minimapColor = color(0, 170, 0)
+  },
+  [62] = {
+    type = "block",
+    shadow = true,
+    physics = "1/1",
+    minimapColor = color(140, 50, 5)
+  },
+  [63] = {
+    type = "background",
+    minimapColor = color(75, 35, 10)
+  },
+  [64] = {
+    type = "decorative",
+    shadow = true,
+  },
+  [65] = {
+    type = "decorative",
+    shadow = true,
+  },
+  [66] = {
+    type = "decorative",
+    shadow = true,
+  },
+  [67] = {
+    type = "decorative",
+    shadow = true,
+  },
+  [68] = {
+    type = "decorative",
+    shadow = true,
+  },
+  [69] = {
+    type = "decorative",
+    shadow = true,
+  },
+  [70] = {
+    type = "decorative",
+    shadow = true,
+  },
+  [71] = {
+    type = "decorative",
+    shadow = true,
+  },
+  [72] = {
+    type = "decorative",
+    shadow = true,
+  },
+  [73] = {
+    type = "decorative",
+    shadow = true,
+  },
+  [74] = {
+    type = "decorative",
+    shadow = true,
+  },
+  [75] = {
+    type = "decorative",
+    shadow = true,
+  },
+  [76] = {
+    type = "decorative",
+    shadow = true,
+  },
+  [77] = {
+    type = "decorative",
+    shadow = true,
   }
 }
