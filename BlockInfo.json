@@ -53,7 +53,7 @@
     "gravity_y":0,
     "gravity_x":-1
   },
-  /*"12":{
+  "12":{
     "type":"action",
     "shadow":false,
     "subtype":"gravity",
@@ -62,7 +62,7 @@
     "canJump":true,
     "gravity_y":0,
     "gravity_x":1
-  },*/
+  },
   "13":{
     "type":"action",
     "shadow":false,
