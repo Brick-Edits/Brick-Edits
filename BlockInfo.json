@@ -50,7 +50,7 @@
     "canMoveX":false,
     "canMoveY":true,
     "canJump":true,
-    "gravity_y":0}
+    "gravity_y":0,
     "gravity_x":-1
   },
   "12":{
