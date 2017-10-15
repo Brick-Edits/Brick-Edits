@@ -309,29 +309,29 @@
     "type":"block",
     "shadow":true,
     "physics":"1/1",
-    "minimapColor":{"r":,"g":,"b":,"a":255}
+    "minimapColor":{"r":45,"g":240,"b":45,"a":255}
   },
   "61":{
     "type":"block",
     "shadow":true,
     "physics":"1/1",
-    "minimapColor":{"r":,"g":,"b":,"a":255}
+    "minimapColor":{"r":45,"g":200,"b":45,"a":255}
   },
   "62":{
     "type":"block",
     "shadow":true,
     "physics":"1/1",
-    "minimapColor":{"r":,"g":,"b":,"a":255}
+    "minimapColor":{"r":45,"g":240,"b":45,"a":255}
   },
   "63":{
     "type":"block",
     "shadow":true,
     "physics":"1/1",
-    "minimapColor":{"r":,"g":,"b":,"a":255}
+    "minimapColor":{"r":160,"g":50,"b":0,"a":255}
   },
   "64":{
-    type:"back",
-    "minimapColor":{"r":,"g":,"b":,"a":255}
+    "type":"back",
+    "minimapColor":{"r":60,"g":25,"b":15,"a":255}
   },
   "65":{
     "type":"deco",
