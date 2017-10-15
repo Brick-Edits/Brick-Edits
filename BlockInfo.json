@@ -1,7 +1,7 @@
 {
   "0":{
     "type":"empty",
-    "minimapColor":{"r":0,"g":0,"b":0,"a":255}
+    "mvinimapColor":{"r":0,"g":0,"b":0,"a":255}
   },
   "1":{
     "type":"block",
