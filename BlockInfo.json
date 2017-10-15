@@ -120,64 +120,64 @@
     "minimapColor":{"r":90,"g":100,"b":30,"a":255}
   },
   "23":{
-    type = "block",
-    shadow = true,
-    physics = "1/1",
+    "type":"block",
+    "shadow":true,
+    "physics":"1/1",
     minimapColor:{"r":100,"g":100,"b":110,"a":255}
   },
   "24":{
-    type = "block",
-    shadow = true,
-    physics = "1/1",
+    "type":"block",
+    "shadow":true,
+    "physics":"1/1",
     minimapColor:{"r":75,"g":115,"b":70,"a":255}
   },
   "25":{
-    type = "block",
-    shadow = true,
-    physics = "1/1",
+    "type":"block",
+    "shadow":true,
+    "physics":"1/1",
     minimapColor:{"r":115,"g":80,"b":100,"a":255}
   },
   "26":{
-    type = "block",
-    shadow = true,
-    physics = "1/1",
+    "type":"block",
+    "shadow":true,
+    "physics":"1/1",
     minimapColor:{"r":175,"g":130,"b":50,"a":255}
   },
   "27":{
-    type = "block",
-    shadow = true,
-    physics = "1/1",
-    minimapColor:{"r":55,"g":170,"b":160,"a":255}
+    "type":"block",
+    "shadow":true,
+    "physics":"1/1",
+    "minimapColor":{"r":55,"g":170,"b":160,"a":255}
   },
   "28":{
-    type = "block",
-    shadow = true,
-    physics = "1/1",
-    minimapColor:{"r":50,"g":75,"b":155,"a":255}
+    "type":"block",
+    "shadow":true,
+    "physics":"1/1",
+    "minimapColor":{"r":50,"g":75,"b":155,"a":255}
   },
   "29":{
-    type = "block",
-    shadow = true,
-    physics = "1/1",
-    minimapColor:{"r":50,"g":75,"b":155,"a":255}
+    "type":"block",
+    "shadow":true,
+    "physics":"1/1",
+    "minimapColor":{"r":50,"g":75,"b":155,"a":255}
   },
   "30":{
-    type = "block",
-    shadow = true,
-    physics = "1/1",
-    minimapColor:{"r":200,"g":200,"b":250,"a":255}
+    "type":"block",
+    "shadow":true,
+    "physics":"1/1",
+    "minimapColor":{"r":200,"g":200,"b":250,"a":255}
   },
   "31":{
-    type = "block",
-    shadow = true,
-    physics = "1/1",
-    minimapColor:{"r":225,"g":230,"b":255,"a":255}
+    "type":"block",
+    "shadow":true,
+    "physics":"1/1",
+    "minimapColor":{"r":225,"g":230,"b":255,"a":255}
   },
   "32":{
-    type = "block",
-    shadow = true,
-    physics = "1/1",
-    minimapColor:{"r":200,"g":200,"b":250,"a":255}
+    "type":"block",
+    "shadow":true,
+    "physics":"1/1",
+    "minimapColor":{"r":200,"g":200,"b":250,"a":255}
   },
   "33":{
     "type":"block",
@@ -309,29 +309,29 @@
     "type":"block",
     "shadow":true,
     "physics":"1/1",
-    "minimapColor":{"r":,"g":,"b":,"a":255} = color(0, 170, 0)
+    "minimapColor":{"r":,"g":,"b":,"a":255}
   },
   "61":{
     "type":"block",
     "shadow":true,
     "physics":"1/1",
-    "minimapColor":{"r":,"g":,"b":,"a":255} = color(30, 220, 30)
+    "minimapColor":{"r":,"g":,"b":,"a":255}
   },
   "62":{
     "type":"block",
     "shadow":true,
     "physics":"1/1",
-    "minimapColor":{"r":,"g":,"b":,"a":255} = color(0, 170, 0)
+    "minimapColor":{"r":,"g":,"b":,"a":255}
   },
   "63":{
     "type":"block",
     "shadow":true,
     "physics":"1/1",
-    "minimapColor":{"r":,"g":,"b":,"a":255} = color(140, 50, 5)
+    "minimapColor":{"r":,"g":,"b":,"a":255}
   },
   "64":{
     type:"back",
-    "minimapColor":{"r":,"g":,"b":,"a":255} = color(75, 35, 10)
+    "minimapColor":{"r":,"g":,"b":,"a":255}
   },
   "65":{
     "type":"deco",
