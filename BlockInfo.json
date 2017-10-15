@@ -1,7 +1,7 @@
 {
   "0":{
     "type":"empty",
-    "mvinimapColor":{"r":0,"g":0,"b":0,"a":255}
+    "minimapColor":{"r":0,"g":0,"b":0,"a":255}
   },
   "1":{
     "type":"block",
@@ -50,7 +50,7 @@
     "canMoveX":false,
     "canMoveY":true,
     "canJump":true,
-    "gravity_y":0,
+    "gravity_y":0}
     "gravity_x":-1
   },
   "12":{
