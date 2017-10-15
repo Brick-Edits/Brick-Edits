@@ -123,25 +123,25 @@
     "type":"block",
     "shadow":true,
     "physics":"1/1",
-    minimapColor:{"r":100,"g":100,"b":110,"a":255}
+    "minimapColor":{"r":100,"g":100,"b":110,"a":255}
   },
   "24":{
     "type":"block",
     "shadow":true,
     "physics":"1/1",
-    minimapColor:{"r":75,"g":115,"b":70,"a":255}
+    "minimapColor":{"r":75,"g":115,"b":70,"a":255}
   },
   "25":{
     "type":"block",
     "shadow":true,
     "physics":"1/1",
-    minimapColor:{"r":115,"g":80,"b":100,"a":255}
+    "minimapColor":{"r":115,"g":80,"b":100,"a":255}
   },
   "26":{
     "type":"block",
     "shadow":true,
     "physics":"1/1",
-    minimapColor:{"r":175,"g":130,"b":50,"a":255}
+    "minimapColor":{"r":175,"g":130,"b":50,"a":255}
   },
   "27":{
     "type":"block",
@@ -246,7 +246,7 @@
   },
   "47":{
     "type":"back",
-    minimapColor:{"r":140,"g":150,"b":150,"a":255}
+    "minimapColor":{"r":140,"g":150,"b":150,"a":255}
   },
   "48":{
     "type":"back",
